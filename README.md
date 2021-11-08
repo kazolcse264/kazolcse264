@@ -1,5 +1,5 @@
 
-![Software Developer](https://avatars.githubusercontent.com/u/74205867?v=4)
+(https://avatars.githubusercontent.com/u/74205867?v=4)
 ## Hi there 👋, My name is Md Kazol Biswas
 #### Software Developer
 
