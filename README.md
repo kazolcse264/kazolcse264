@@ -6,7 +6,7 @@
 
 I am a self-motivated person and looking for opportunities to utilize my problem-solving skills and go ahead in the field of software development.
 
-Skills: C / C++ / JAVA / Python / HTML / CSS / PHP / MySQL / Firebase
+Skills: C / C++ / JAVA / Python / HTML / CSS / PHP / MySQL / Firebase / Flutter / Dart
 
 - 🔭 I’m currently working on Learning Java 
 - 🌱 I’m currently learning Android Development 
