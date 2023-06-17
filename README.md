@@ -8,8 +8,8 @@ I am a self-motivated person and looking for opportunities to utilize my problem
 
 Skills: C / C++ / JAVA / Python / HTML / CSS / PHP / MySQL / Firebase / Flutter / Dart
 
-- 🔭 I’m currently working on Learning Java 
-- 🌱 I’m currently learning Android Development 
+- 🔭 I’m currently working on Flutter Development
+- 🌱 I’m currently learning Advance Flutter Development
 - 👯 I’m looking to collaborate on GitHub 
 
 
